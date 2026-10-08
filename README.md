@@ -46,7 +46,7 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cbh220410&show_icons=true" />
 </p>
 
 ## 🔥 GitHub Streak
