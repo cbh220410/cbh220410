@@ -113,6 +113,7 @@ A web-based platform designed to organize and simplify placement-related activit
     alt="GitHub Trophies"
   />
 </p>
+
 ---
 
 ## 📈 Contribution Graph
