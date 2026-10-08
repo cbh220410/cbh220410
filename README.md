@@ -103,27 +103,7 @@ A web-based platform designed to organize and simplify placement-related activit
   <img src="https://streak-stats.demolab.com?user=cbh220410&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=cbh220410&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=cbh220410&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
 ---
 
 ## 🤝 Connect With Me
